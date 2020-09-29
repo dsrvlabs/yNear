@@ -21,8 +21,12 @@ Some part of validator rewards will collected into treasury.
 All yNEAR token holders can participate in the governance of treasury 
 For example, tokens in the tresury can be used for various project initiatives on NEAR.
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/RA5SZdo2uSQ/hqdefault.jpg)](https://youtu.be/RA5SZdo2uSQ)
+
 ## Code
 
 * Contract(Rust): [github](https://github.com/dsrvlabs/BondToken)
 * Front-end: [github](https://github.com/dsrvlabs/BondFront)
-* Back-end: [github](https://github.com/dsrvlabs/)
+* Back-end: [github](https://github.com/dsrvlabs/yNear)
