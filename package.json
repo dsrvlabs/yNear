@@ -1,0 +1,24 @@
+{
+  "name": "yNear",
+  "version": "0.1.0",
+  "description": "bonded NEAR token on Rainbow Bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsrvlabs/yNear.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsrvlabs/yNear/issues"
+  },
+  "homepage": "https://github.com/dsrvlabs/yNear#readme",
+  "dependencies": {
+    "autobahn": "^20.9.2",
+    "express": "^4.17.1",
+    "rainbow-bridge-cli": "^1.1.2"
+  }
+}

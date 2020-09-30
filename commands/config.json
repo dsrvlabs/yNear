@@ -1,0 +1,12 @@
+{
+"nearNodeUrl":         "https://rpc.testnet.near.org/",
+"nearSenderAccountId": "<near-sender-account>",
+"nearSenderSk":        "ed25519:<near-sender-private-key>",
+"nearTokenAccountId":  "<near-token-account>",
+"nearLockAccountId":   "<near-lock-account>",
+
+"ethProviderUrl":      "https://:<project-secret>@rinkeby.infura.io/v3/<project-id>",
+"ethMasterSk":         "0x<eth-private-key>",
+"ethClientAddress":    "0xF721c979db97413AA9D0F91ad531FaBF769bb09C",
+"ethTokenAddress":     "0x<eth-erc20-token-address>"
+}

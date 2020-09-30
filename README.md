@@ -29,6 +29,7 @@ A small commission of validator rewards will be collected into the treasury, in 
 * Back-end: [github](https://github.com/dsrvlabs/yNear)
 
 ## TODO
+- [x] proof of concept for [hackathon](https://near.org/rainbow/)
 - [ ] implement Rebase logic for Staking Reward.
   - [ ] rust contract
   - [ ] solidity contract
