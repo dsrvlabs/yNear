@@ -2,24 +2,20 @@
 Yield Near for 🌈 Hack The Rainbow
 
 ## Summary
-NEAR Protocol uses Proof-of-stake to secure its blockchain.  All validators must stake a certan amount of NEAR tokens to keep our network safe.
+NEAR Protocol uses a Proof-of-Stake consensus to secure its blockchain network. All validators must stake a certain amount of its native token NEAR to participate in validation.
 
-in other hands, with Near's powerful smart contract ability, we can easily tokenize our currency and transfer it to Ethereum through the rainbow bridge.
+In the NEAR Protocol, with its powerful smart contract features, it is possible to tokenize the staked assets and transfer it to Ethereum through the rainbow bridge.
 
-This versatility offers many opportunities for holders, it can also threaten network security by reducing the amount of staking.
+This versatility offers many opportunities for token holders as they can maximize the usability of NEAR by utilizing the benefits of the Ethereum ecosystem while still protecting the security of its network.
+ 
+ We suggest cross-chain staking derivatives.
 
-In order to maximize the usability of the near while protecting the security of the network, We suggest staking based derivatives.
+You can receive yNEAR tokens by staking NEAR tokens to certain validators and 
+the amount of yNEAR is adjusted to accumulated validator rewards.
 
-You can receive yNEAR token by staking NEAR tokens to validator. 
-The amount of yNEAR is adjusted when validators get rewards Immediately
+By transferring yNEAR to Ethereum, holders can explore diverse opportunities from defi projects.
 
-By transfering yNEAR to Ethereum,
-holders can find various financial opportunities with various de-fi legos include hedge
-
-Some part of validator rewards will collected into treasury.
-
-All yNEAR token holders can participate in the governance of treasury 
-For example, tokens in the tresury can be used for various project initiatives on NEAR.
+A small commission of validator rewards will be collected into the treasury, in which all yNEAR token holders can participate in the governance and project initiatives.
 
 ## Demo Video
 
