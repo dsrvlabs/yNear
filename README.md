@@ -2,6 +2,7 @@
 Yield Near for 🌈 Hack The Rainbow
 
 ## Summary
+![yNear explain img](https://github.com/dsrvlabs/yNear/raw/master/unknown-6.png)
 NEAR Protocol uses a Proof-of-Stake consensus to secure its blockchain network. All validators must stake a certain amount of its native token NEAR to participate in validation.
 
 In the NEAR Protocol, with its powerful smart contract features, it is possible to tokenize the staked assets and transfer it to Ethereum through the rainbow bridge.
