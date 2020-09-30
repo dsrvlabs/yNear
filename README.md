@@ -30,3 +30,19 @@ For example, tokens in the tresury can be used for various project initiatives o
 * Contract(Rust): [github](https://github.com/dsrvlabs/BondToken)
 * Front-end: [github](https://github.com/dsrvlabs/BondFront)
 * Back-end: [github](https://github.com/dsrvlabs/yNear)
+
+## TODO
+- [ ] implement Rebase logic for Staking Reward.
+  - [ ] rust contract
+  - [ ] solidity contract
+- [ ] yNear Ecosystem
+  - [ ] Governance Module
+  - [ ] Treasury
+  - [ ] more validator
+- [x] Interface
+  - [x] design
+  - [x] implementation
+- [ ] Contract
+  - [x] Delegation for Token
+  - [ ] Gas Price Calculate
+  - [ ] Testcase
